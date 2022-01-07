@@ -3,11 +3,8 @@ package com.jocile.example.io;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;
-import java.io.InputStream;
 import java.io.InputStreamReader;
-import java.io.OutputStream;
 import java.io.OutputStreamWriter;
-import java.io.Reader;
 
 /**
  * This is an example of character input and output manipulation.
