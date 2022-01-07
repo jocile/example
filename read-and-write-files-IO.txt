@@ -1,0 +1,13 @@
+Regardless of the source or destination of the data, the process of reading (input) and writing (output) data is the same:
+
+- Reading (read)
+1. Open a Stream
+2. while(there is_information)
+2.1 read_information
+3. Close the Stream
+
+- Writing (write)
+1. Open a Stream
+2. while(there is_information)
+2.1 write_information
+3. Close the Stream
