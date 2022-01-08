@@ -15,6 +15,7 @@
 
 - Characters stream
 - Data to file (read and write)
+- Object to file (read and write)
 
 ## References
 
