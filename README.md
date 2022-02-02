@@ -1,5 +1,11 @@
 # Java development examples
 
+## Linked list - data structure
+
+- Element Last in First out stack
+- Element First in First out queue
+- FiFo queue with generics objects
+
 ## Collection Implementations
 
 - Comparable
@@ -19,6 +25,7 @@
 
 ## References
 
+- [Dutra João DIO data structure course](https://github.com/jrdutra/estruturaDeDadosJavaDio)
 - [Fuchter Wesley DIO collections course](https://github.com/wesleyfuchter/collections-course)
 - [Cavalcante Camila Java IO course](https://github.com/cami-la/curso-dio-intro-java-i-o)
 - [Jacques - data structure stream pt-br](http://www.dsc.ufcg.edu.br/~jacques/cursos/p2/html/ed/arquivos.htm)
