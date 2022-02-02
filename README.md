@@ -5,6 +5,8 @@
 - Element Last in First out stack
 - Element First in First out queue
 - FiFo queue with generics objects
+- Linked list with dynamically allocated nodes
+- Linked list with doubly linked nodes
 
 ## Collection Implementations
 
