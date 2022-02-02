@@ -16,6 +16,7 @@ public class QueueGenericExample<T> {
     firstRefNode = newNode;
   }
 
+  @SuppressWarnings("unchecked")
   public T first() {
     if (!this.isEmpty()) {
       NodeGenerics<T> firstNode = firstRefNode;
@@ -31,6 +32,7 @@ public class QueueGenericExample<T> {
     return null;
   }
 
+  @SuppressWarnings("unchecked")
   public T dequeue() {
     if (!this.isEmpty()) {
       NodeGenerics<T> firstNode = firstRefNode;
